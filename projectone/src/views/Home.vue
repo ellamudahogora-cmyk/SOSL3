@@ -9,7 +9,7 @@
     <div class="relative text-center px-4 z-10">
       <h1 class="text-6xl font-bold mb-4">Welcome to Rwanda</h1>
       <p class="text-xl font-bold mb-8 max-w-3xl mx-bold">Discover the Land of a Thousand Hills</p>
-      <p class="text-lg opacity-90"><i>✔Explore Rwanda's breathtaking landscapes, rich culture, and vibrant tourism destinations</i></p>
+      <p class="text-lg opacity-90"><i>Explore Rwanda's breathtaking landscapes, rich culture, and vibrant tourism destinations</i></p>
 
       <div class="mt-6 flex items-center justify-center gap-4">
         <a href="/learn" class="px-4 py-2 rounded-md bg-white/20 text-white border border-white/30 hover:bg-white/30 transition-colors">Learn more</a>
