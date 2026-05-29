@@ -7,7 +7,7 @@
   >
     <div class="bg-black/50 absolute inset-0"></div>
     <div class="relative text-center px-4 z-10">
-      <h1 class="text-6xl font-bold mb-4">📍Welcome to Rwanda📍</h1>
+      <h1 class="text-6xl font-bold mb-4">Welcome to Rwanda</h1>
       <p class="text-xl font-bold mb-8 max-w-3xl mx-bold">Discover the Land of a Thousand Hills</p>
       <p class="text-lg opacity-90"><i>✔Explore Rwanda's breathtaking landscapes, rich culture, and vibrant tourism destinations</i></p>
 
