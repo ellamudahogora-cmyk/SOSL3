@@ -7,18 +7,18 @@
     </div>
   </section>
 
-  <!-- Services Grid -->
+  <!-- Services  -->
   <section class="py-20 px-4 bg-gray-50">
     <div class="max-w-6xl mx-auto">
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        <!-- Service 1: National Parks Tours -->
+        <!-- Service1, National Parks  -->
         <div class="bg-white rounded-lg p-8 shadow-md hover:shadow-lg transition text-center">
           <div class="text-5xl mb-4">🦁</div>
           <h3 class="text-2xl font-bold text-gray-800 mb-3">National Parks Tours</h3>
           <p class="text-gray-600">Explore Rwanda's stunning national parks including Volcanoes, Nyungwe, and Akagera. Experience wildlife and pristine nature.</p>
         </div>
 
-        <!-- Service 2: Cultural Tours -->
+        <!-- Service2, Cultural  -->
         <div class="bg-white rounded-lg p-8 shadow-md hover:shadow-lg transition text-center">
           <div class="text-5xl mb-4">🎭</div>
           <h3 class="text-2xl font-bold text-gray-800 mb-3">Cultural Tours</h3>
